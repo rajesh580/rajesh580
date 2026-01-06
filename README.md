@@ -46,14 +46,6 @@ Highly disciplined **Software Engineer** dedicated to engineering clean, maintai
   </a>
 </p>
 
----
-
-## 📊 Analytics & Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh580&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh580&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
