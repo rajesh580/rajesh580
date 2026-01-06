@@ -1,81 +1,89 @@
-# 🚀 Terminal: rajesh580
+# 🚀 System Architect: rajesh580
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=RAJESH%20%7C%20DEVELOPER&fontSize=70&animation=terminal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=RAJESH%20KUMAR&fontSize=80&animation=terminal&fontAlignY=35" />
 </p>
 
-### ⚡ System Status
+### ⚡ Operational Status
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=48CAE4&width=500&lines=Full+Stack+Developer+in+Training;Learning+Cloud+Architecture;Building+Scalable+Solutions;Ready+to+Collaborate!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=48CAE4&width=600&lines=Full+Stack+Software+Engineer;Specializing+in+Scalable+Systems;Open+Source+Contributor;Constant+Learner+and+Problem+Solver" />
 </p>
 
 ---
 
-## 📖 About Me
+## 👨‍💻 About Me
 
-I am a passionate software developer focused on building efficient, user-centric applications. I enjoy solving complex problems and turning ideas into functional code.
+I am a highly motivated software developer with a focus on engineering clean, maintainable, and efficient code. My journey in technology is driven by a curiosity to understand how complex systems work and a desire to build tools that provide real-world value.
 
-- 🔭 **Current Focus:** Building robust web applications and exploring DevOps.
-- 🌱 **Learning:** Currently diving deep into [Insert Language, e.g., TypeScript or Go].
-- 👯 **Collaboration:** Looking to contribute to Open Source projects related to [Your Interest].
-- 💬 **Ask me about:** JavaScript, Python, or the best way to structure a project.
-- 📫 **Contact:** Connect with me via [LinkedIn](Your-Link) or [Email](mailto:your@email.com).
-
----
-
-## 🛠 Tech Stack & Tools
-
-### 🌐 Frontend & Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,typescript" />
-  </a>
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,python" />
-  </a>
-</p>
-
-### 🔧 DevOps & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,postman" />
-  </a>
-</p>
+- 🔭 **Current Pursuits:** I am currently refining my skills in **Cloud-Native technologies** and **Microservices architecture**.
+- 💡 **Philosophy:** I believe in the power of "Learning by Doing." Every bug is a lesson, and every project is a step toward mastery.
+- 👯 **Collaboration:** I am actively looking to collaborate on **Open Source** projects, specifically those involving React, Node.js, or Python.
+- 💬 **Expertise:** Ask me about **JavaScript Ecosystems**, **Database Optimization**, or **API Design**.
+- 📫 **Reach Out:** I’m always open to professional networking and technical discussions.
+  - **LinkedIn:** [linkedin.com/in/rajesh580](https://www.linkedin.com/in/rajesh-rajoli/)
+  - **Portfolio:** [rajesh-portfolio.dev](https://rajesh580.github.io/my-portfolio/)
+  - **Email:** [rajesh@example.com](mailto:rajeshrajoli722@email.com)
 
 ---
 
-## 🎮 Interactive Zone
+## 🐍 Contribution Animation
+This animated snake moves through my commit history, "eating" the work I've done over the past year. It is a visual representation of my consistency and growth.
 
-### 🐍 Contribution Snake
-*A snake crawling through my history (updates daily via GitHub Actions).*
 ![Snake Animation](https://github.com/rajesh580/rajesh580/blob/output/github-contribution-grid-snake.svg)
 
-### ♟️ Community Games
-Click a link below to start an issue-based game (requires setup) or just explore!
-| [🕹️ Play Connect 4](https://github.com/rajesh580/rajesh580/issues/new) | [♟️ Play Chess](https://github.com/rajesh580/rajesh580/issues/new) |
-| :---: | :---: |
-
 ---
 
-## 📊 Performance Metrics
+## 🛠 Technical Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh580&show_icons=true&theme=tokyonight&count_private=true" alt="Rajesh's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh580&layout=compact&theme=tokyonight" alt="Top Languages" />
+### 💻 Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,php,html,css" />
+  </a>
+</p>
+
+### 🌐 Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,bootstrap" />
+  </a>
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws,docker" />
+  </a>
+</p>
+
+### 🛠️ Developer Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+  </a>
 </p>
 
 ---
 
-## 📜 Dev Motivation
+## 📈 Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajesh580&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rajesh's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh580&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh580&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## ✍️ Development Mantra
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajesh580&label=Profile%20Views&color=00b4d8&style=flat" />
+<p align="right">
+  <i>Profile viewed <b><img src="https://komarev.com/ghpvc/?username=rajesh580&color=00b4d8&style=flat-square" align="center" /></b> times.</i>
 </p>
