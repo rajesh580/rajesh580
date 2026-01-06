@@ -1,7 +1,7 @@
 # 🚀 System Architect: rajesh580
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=RAJESH%20KUMAR&fontSize=80&animation=terminal&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=RAJESH%20RAJOLI&fontSize=80&animation=terminal&fontAlignY=35" />
 </p>
 
 ### ⚡ Operational Status
