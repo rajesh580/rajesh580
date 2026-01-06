@@ -47,11 +47,11 @@ Highly disciplined **Software Engineer** dedicated to engineering clean, maintai
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Performance Metrics
 *Automated performance metrics and language distribution.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh580&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Rajesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajesh580&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh580&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
