@@ -13,23 +13,24 @@
 
 ## 📑 Executive Summary
 
-Highly disciplined **Software Engineer** dedicated to engineering clean, maintainable, and highly efficient code. My technical philosophy is built on the foundation of **"Learning by Doing,"** treating every technical challenge as a lesson in architectural optimization and problem-solving.
+Highly disciplined **Software Engineer** dedicated to engineering clean, maintainable, and highly efficient code. My technical philosophy is built on the foundation of **"Learning by Doing,"** treating every technical challenge as an architectural optimization opportunity.
 
 * **🔭 Strategic Pursuits:** Currently architecting cloud-native applications and mastering microservices patterns.
 * **💡 Engineering Values:** Prioritizing code readability, modularity, and the implementation of robust design patterns.
 * **👯 Strategic Collaboration:** Seeking partnerships in Open Source ecosystems, particularly within React, Node.js, and Python frameworks.
-* **📫 Communication:** Open to professional inquiries and technical deep-dives.
 
 ---
 
 ## 📈 Engineering Impact & Consistency
 *This visualization represents daily technical contributions and commitment to continuous deployment.*
 
-![Snake Animation](https://raw.githubusercontent.com/rajesh580/rajesh580/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajesh580/rajesh580/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
-## 🛠️ Technical Ecosystem
+## 🛠️ Technical Arsenal
 
 ### 💻 Development Languages & Frontend
 <p align="left">
@@ -47,9 +48,7 @@ Highly disciplined **Software Engineer** dedicated to engineering clean, maintai
 
 ---
 
-## 📂 Performance Metrics
-*Automated performance metrics and language distribution.*
-
+## 📊 Analytics & Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajesh580&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br/>
@@ -58,13 +57,21 @@ Highly disciplined **Software Engineer** dedicated to engineering clean, maintai
 
 ---
 
-## 🔗 Contact & Network
+## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rajesh-rajoli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-rajoli" height="30" width="40" /></a>
-<a href="https://rajesh580.github.io/my-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="rajesh-portfolio" height="30" width="40" /></a>
-<a href="mailto:rajeshrajoli722@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rajesh-email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rajesh-rajoli/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://rajesh580.github.io/my-portfolio/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:rajeshrajoli722@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
+---
 
 <p align="right">
   <i>System Telemetry: <b><img src="https://komarev.com/ghpvc/?username=rajesh580&color=00b4d8&style=flat-square" align="center" /></b> unique visitors.</i>
