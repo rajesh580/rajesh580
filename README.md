@@ -6,7 +6,7 @@
 
 ### 🛰️ Connectivity & Core Focus
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=48CAE4&width=600&lines=Full+Stack+Software+Engineer;MERN+Stack+%2B+FastAPI;AI-Powered+Plant+Disease+Detection;8.49+CGPA+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=48CAE4&width=600&lines=Full+Stack+Software+Engineer;MERN+Stack+%2B+FastAPI;AI-Powered+Plant+Disease+Detection;8.62+CGPA+Architect" />
 </p>
 
 ---
