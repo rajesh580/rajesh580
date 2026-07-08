@@ -17,7 +17,7 @@ Highly disciplined **Software Engineer** and final-year Computer Science student
 
 * **🔭 Strategic Pursuits:** Architecting cloud-native applications and mastering microservices patterns.
 * **💡 Technical Nindo:** "I’ll never go back on my word... that’s my nindo, my ninja way!" — Bringing that same persistence to debugging and system design.
-* **🎓 Academic Profile:** 8th Semester CS Student at Agadi College of Engineering (VTU) with a **8.49 CGPA**.
+* **🎓 Academic Profile:** 8th Semester CS Student at Agadi College of Engineering (VTU) with a **8.62 CGPA**.
 
 ---
 
